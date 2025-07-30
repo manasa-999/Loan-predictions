@@ -7,15 +7,15 @@ LoanPredictions.html: HTML export of the Colab notebook
 RFSample_submission.csv: Sample output data
 
 📊 Algorithms Used
-Logistic Regression
-KNeighbors
-Random Forest
-Feature Engineering and Preprocessing
+- Logistic Regression
+- KNeighbors
+- Random Forest
+- Feature Engineering and Preprocessing
 
 🧠 Libraries Used
-pandas, numpy
-scikit-learn
-matplotlib, seaborn
+- pandas, numpy
+- scikit-learn
+- matplotlib, seaborn
 
 ✍️ Author
 Thummalapalli Manasa
