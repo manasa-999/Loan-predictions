@@ -7,7 +7,8 @@ LoanPredictions.html: HTML export of the Colab notebook
 RFSample_submission.csv: Sample output data
 
 📊 Algorithms Used
-Linear Regression
+Logistic Regression
+KNeighbors
 Random Forest
 Feature Engineering and Preprocessing
 
